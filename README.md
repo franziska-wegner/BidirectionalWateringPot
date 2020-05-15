@@ -1,1 +1,1 @@
-# BidirectionalWateringPot
+# Bidirectional Watering Pot
